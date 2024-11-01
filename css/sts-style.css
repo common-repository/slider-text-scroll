@@ -1,0 +1,25 @@
+
+/* .marquee_text {
+    font-size: 24px;
+    font-weight: bold;
+    color:brown;
+    
+} */
+
+/* custom-styles.css */
+
+/*
+.marquee_text {
+    font-size: {{ESTS_T_SIZE}}px;
+    font-weight: {{ESTS_T_STYLE}};
+    color: {{ESTS_T_COLOR}};
+    overflow: hidden;
+}
+
+.hero_title {
+    font-size: {{ESTS_ST_SIZE}}px;
+    font-weight: {{ESTS_ST_STYLE}};
+    color: {{ESTS_ST_COLOR}};
+    min-height: {{ESTS_ST_H}}px;
+}
+*/
